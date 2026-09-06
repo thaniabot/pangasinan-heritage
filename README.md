@@ -4,7 +4,7 @@
 Pangasinan Heritage Digital Showcase
 
 ## Student Name
-Jaymark Alano
+Roces, Elmer Jr. G.
 
 ## Selected Framework
 Next.js 14
