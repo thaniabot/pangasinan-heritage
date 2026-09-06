@@ -1,7 +1,7 @@
 # Pangasinan Heritage
 
 ## Project Title
-Pangasinan Heritage Digital Showcase
+Pangasinan Heritage Digital
 
 ## Student Name
 Roces, Elmer Jr. G.
