@@ -4,7 +4,7 @@
 Pangasinan Heritage Digital Showcase
 
 ## Student Name
-Jaymark Alano
+Roces, Elmer Jr. G.
 
 ## Selected Framework
 Next.js 14
@@ -15,9 +15,9 @@ to promote cultural awareness and tourism in Pangasinan.
 
 The website showcases iconic destinations such as:
 
-- Hundred Islands
-- Bolinao Lighthouse
 - Balungao Hot Spring
+- Bolinao Lighthouse
+- Hundred Island
 
 The project focuses on responsive design, accessibility,
 maintainability, performance, and usability.
