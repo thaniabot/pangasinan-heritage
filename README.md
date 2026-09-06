@@ -32,7 +32,7 @@ maintainability, performance, and usability.
 
 ## Live Website
 
-[Visit Pangasinan Heritage Website](https://jaymarkk.github.io/pangasinan-heritage/)
+[Visit Pangasinan Heritage Website]
 
 ## Features
 
